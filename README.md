@@ -1,2 +1,3 @@
 # hello-world
-start learning code
+
+Hello world!
